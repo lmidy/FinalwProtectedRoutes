@@ -1,2 +1,0 @@
-# FinalwProtectedRoutes
-Created with CodeSandbox
